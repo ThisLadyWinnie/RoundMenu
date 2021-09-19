@@ -1,0 +1,16 @@
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\bin\Debug\CirkularMenu.exe.config
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\bin\Debug\CirkularMenu.exe
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\bin\Debug\CirkularMenu.pdb
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\CirkularMenu.csprojAssemblyReference.cache
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\MainWindow.g.cs
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\App.g.cs
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\CirkularMenu_MarkupCompile.cache
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\CirkularMenu_MarkupCompile.lref
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\MainWindow.baml
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\CirkularMenu.g.resources
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\CirkularMenu.Properties.Resources.resources
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\CirkularMenu.csproj.GenerateResource.cache
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\CirkularMenu.csproj.CoreCompileInputs.cache
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\CirkularMenu.exe
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\CirkularMenu.pdb
+C:\Users\Winnie\source\repos\CirkularMenu\CirkularMenu\obj\Debug\App.baml
